@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TUTORBOX</string>
+    <string name="location_permission_denied" />
+    <string name="permission_required_toast" />
+    <string name="permission_rationale_location" />
+
+
+    <string name="access_token" translatable="false">pk.eyJ1IjoiYm9keXBhcnNlciIsImEiOiJjanZzMGpocXAwdGtyNGFscWk3OGlxdWN0In0.GNdx0Z6__h6Ps3x8CEMApg</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
